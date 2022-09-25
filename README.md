@@ -12,7 +12,10 @@
 </ul>
 <p>S&eacute;rialisation JSON -&gt; MainController.php</p>
 <p>Backoffice -&gt; AdminController.php</p>
-<p>Lien utile vers le code : <a href"https://github.com/AlexisMartinezDev/AlexisMartinezDev-ACSEO-exercice/commit/01b7baf597fed9d9ef3876ec3f016ba1b1013266#diff-15f7f071121bfa3ffa4bf6f5b31db091f12a2ce65acae1642ab42c45e0c9eef7">https://github.com/AlexisMartinezDev/AlexisMartinezDev-ACSEO-exercice/commit/01b7baf597fed9d9ef3876ec3f016ba1b1013266#diff-15f7f071121bfa3ffa4bf6f5b31db091f12a2ce65acae1642ab42c45e0c9eef7</a></p>
+<p>Lien utile vers le code : 
+<a href"https://github.com/AlexisMartinezDev/AlexisMartinezDev-ACSEO-exercice/commit/2fe70ef3d74613d44c1ee8a11557ce24242e3b08#diff-15f7f071121bfa3ffa4bf6f5b31db091f12a2ce65acae1642ab42c45e0c9eef7">https://github.com/AlexisMartinezDev/AlexisMartinezDev-ACSEO-exercice/commit/2fe70ef3d74613d44c1ee8a11557ce24242e3b08#diff-15f7f071121bfa3ffa4bf6f5b31db091f12a2ce65acae1642ab42c45e0c9eef7
+</a>
+</p>
 <p><strong>Remarque :</strong></p>
 <p>J'ai utilis&eacute; une Query (avec QueryBuilder) pour grouper les messages dans le backoffice, dans le QuestionsRepository.php. <br/><br/>
 Le chemin du dossier JSON o&ugrave; sont g&eacute;n&eacute;r&eacute;s les fichiers lors d'un envoi de message a bien &eacute;t&eacute; d&eacute;plac&eacute; &agrave; l'ext&eacute;rieur du dossier public pour ne pas rendre ces informations accessibles dans l'URL.<br/><br/>
